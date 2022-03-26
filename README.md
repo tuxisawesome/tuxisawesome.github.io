@@ -2,8 +2,8 @@
 
 
 ## Menu:
-[WalterOS Core](tuxisawesome.github.io/oscore)
+[WalterOS Core](https://tuxisawesome.github.io/oscore)
 
-[WalterOS](tuxisawesome.github.io/os)
+[WalterOS](https://tuxisawesome.github.io/os)
 
-[WalterOS Pro](tuxisawesome.github.io/ospro)
+[WalterOS Pro](https://tuxisawesome.github.io/ospro)
