@@ -1,9 +1,8 @@
-# Welcome to tuxisawesome's website!
+# Welcome. 欢迎你。
+
+You have landed on Walter’s website.
+你在胡欣鹏的网站上。
 
 
-## Menu:
-[WalterOS Core](https://tuxisawesome.github.io/oscore)
 
-[WalterOS](https://tuxisawesome.github.io/os)
 
-[WalterOS Pro](https://tuxisawesome.github.io/ospro)
