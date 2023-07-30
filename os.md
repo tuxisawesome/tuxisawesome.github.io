@@ -1,2 +1,2 @@
 # News. 新闻。
-[tuxisawesome.github.io](Back. 回去）
+[Back. 回去](tuxisawesome.github.io)
