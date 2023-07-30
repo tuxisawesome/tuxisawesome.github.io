@@ -7,4 +7,4 @@ You have landed on Walter’s website.
 
 
 
-
+[News. 新闻。](https://tuxisawesome.github.io/os)
