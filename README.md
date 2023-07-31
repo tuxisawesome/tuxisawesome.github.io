@@ -1,7 +1,7 @@
 # Welcome. 欢迎你。
 
 You have landed on Walter’s website.
-> v8.1
+> Version 8.1
 
 你在胡欣鹏的网站上。
 
