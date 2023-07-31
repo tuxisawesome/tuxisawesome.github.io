@@ -10,5 +10,4 @@ It appears that there is going to be rain for the whole day today, and some tomo
 ### 7/30/2023
 There is a new Bubbletea Boy!
 
-[Download. 下载。](https://fastupload.io/en/POGGZ4DXAW/9QWmpo04LGEB6/k6G1BFJggYDMKSh/700_raw.MP4)
-
+[Download. 下载。](https://gofile.io/d/nBOtpV)
