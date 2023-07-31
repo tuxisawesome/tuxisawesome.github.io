@@ -9,4 +9,4 @@ You have landed on Walter’s website.
 
 <iframe src="https://embedpoll.com/embed/A5tv8" style="width:100%; max-width:500px;" height="514" frameborder="0" scrolling="no"></iframe>
 
-> Version 8.1
+> Version 8.2
