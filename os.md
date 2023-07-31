@@ -10,4 +10,4 @@ It appears that there is going to be rain for the whole day today, and some tomo
 ### 7/30/2023
 There is a new Bubbletea Boy!
 
-Also, we were stuck in thr hotel for a day.
+Also, we were stuck in the hotel for a day.
