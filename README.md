@@ -7,6 +7,6 @@ You have landed on Walter’s website.
 
 [News. 新闻。](https://tuxisawesome.github.io/os)
 
-<iframe src="https://embedpoll.com/embed/A5tv8" style="width:100%; max-width:500px;" height="540" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://embedpoll.com/embed/A5tv8" style="width:100%; max-width:500px;" height="530" frameborder="0" scrolling="no"></iframe>
 
 > Version 8.2
